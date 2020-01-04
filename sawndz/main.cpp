@@ -1,6 +1,6 @@
 /*
 Original Sawndz code by Jaklub
-DLL version by KingAtryeu
+DLL version by 
 */
 
 #include <cstdio>
